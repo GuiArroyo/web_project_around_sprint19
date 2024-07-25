@@ -1,6 +1,6 @@
 Tripleten web_project_around
 Projeto do sprint 9, continução do sprint 7 e 8 onde desenvolvi uma pagina tipo de rede social, com um formulário e utilizo JavaScript para interligar cada botão em suas devidas funções.
-link para o site: https://guiarroyo.github.io/web_project_around/
+link para o site: https://guiarroyo.github.io/web_project_around_sprint19/
 
 Características do projeto:
 
