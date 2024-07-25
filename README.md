@@ -13,3 +13,6 @@ Media queries
 FIGMA
 Princípios de JavaScript: Botões e alteração de HTML com base em formulário
 Interação do botão like, adicionar e remover fotos.
+
+Para subir ele pro git eu gosto de utilizar a frase pré pronto
+git add . && git commit -m “Update” && git push
